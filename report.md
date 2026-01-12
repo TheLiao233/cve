@@ -18,7 +18,7 @@ Find any place where you can fill in the information, such as: recruitment infor
 
 ```
 
-[![image-20250226130453888](./img_%E6%8F%90%E4%BA%A4cve/image-20250226130453888.png)](https://github.com/TheLiao233/cve/blob/main/assets/image-20250226130453888.png)
+[![image-20250226130453888](image-20250226130453888.png)
 
 ![image-20250226130511486](./img_%E6%8F%90%E4%BA%A4cve/image-20250226130511486.png)
 
